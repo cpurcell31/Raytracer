@@ -1,5 +1,8 @@
 ### Ray Tracer
 
+Adapts code from Ray Tracing from the Ground Up by Kevin Suffern
+Uses code from lectures and labs by Mauricio Rovira Galvez
+
 #### Features
 * Pinhole Camera System
 * Point Lights
